@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: ravargs/hello
     backstage.io/techdocs-ref: url:https://github.com/ravargs/hello
+    backstage.io/kubernetes-id : backstagedemo
 spec:
   type: service
   lifecycle: experimental
