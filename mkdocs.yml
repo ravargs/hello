@@ -1,0 +1,8 @@
+site_name: "helloworld"
+site_description: "Hello world App"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

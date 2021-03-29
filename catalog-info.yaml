@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "helloworld"
+  description: "Hello world App"
+  annotations:
+    github.com/project-slug: ravargs/hello
+    backstage.io/techdocs-ref: url:https://github.com/ravargs/hello
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "ravargs"
